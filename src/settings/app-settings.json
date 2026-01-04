@@ -1,0 +1,12 @@
+{
+  "name": "NFT Gallery",
+  "shortName": "NFTGallery",
+  "subtitle": "Explore Your NFT Collection",
+  "description": "View your NFT collection by connecting your Farcaster wallet. Browse all your NFTs in a beautiful gallery grid and see details like floor prices.",
+  "shortDescription": "Discover and explore your NFT collection in a stunning gallery.",
+  "primaryCategory": "entertainment",
+  "tags": ["nft", "crypto-art", "gallery"],
+  "splashBackgroundColor": "#000000",
+  "tagline": "NFTs, Beautifully Displayed",
+  "requiredChains": ["eip155:8453", "eip155:1"]
+}
