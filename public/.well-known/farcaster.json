@@ -1,0 +1,14 @@
+{
+  "accountAssociation": {
+    "header": "...",
+    "payload": "...", 
+    "signature": "..."
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "NFT Gallery",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "homeUrl": "https://your-domain.com",
+    "description": "Your app description"
+  }
+}
